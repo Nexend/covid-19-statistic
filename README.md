@@ -3,6 +3,7 @@
 In the project directory, u can run:
 
 npm i
+
 npm start
 
 Runs the app in the development mode.
